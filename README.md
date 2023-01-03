@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sub-chandra
-- 👀 I’m interested in Pytohn, Deep Learning and Web
-- 🌱 I’m currently learning PINNs
-- 💞️ I’m looking to collaborate on Python
+- 👋 Hi, I’m [@sub-chandra](https://github.com/sub-chandra/)
+- 👀 I’m interested in `Pytohn`, `Deep Learning` and `Web`
+- 🌱 I’m currently learning `PINNs`
+- 💞️ I’m looking to collaborate on `Python`
 - 📫 How to reach me: `chandera.sub@gmail.com`
